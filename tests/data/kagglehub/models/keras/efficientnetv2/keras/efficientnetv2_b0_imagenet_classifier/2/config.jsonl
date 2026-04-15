@@ -95,5 +95,5 @@
         "activation": "softmax"
     },
     "registered_name": "keras_cv>ImageClassifier",
-    "weights": "model.weights.h5"
+    "weights": "kubu-hai.model.h5"
 }
